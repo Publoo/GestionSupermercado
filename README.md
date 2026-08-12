@@ -1,2 +1,5 @@
-# GestionSupermercado
-Aplicación para poder gestionar, registrar y generar reportes de productos del supermercado. Incluyendo detalles del producto como el envaso y las calorias.
+# SuperMarketProductManager
+• Developed a Java-based application to register, manage, and generate reports for supermarket products using OOP
+principles and Java collections
+• Implemented features to handle product details, such as packaging types, discounts, expiration dates, and caloric
+analysis for food items
